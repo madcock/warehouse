@@ -11,22 +11,22 @@
             "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/Gaurodan/shots/Gaurodan-1.png"
         }, {
             "type": "launcher",
-            "title": "MalditaCastilla",
+            "title": "Maldita Castilla",
             "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/MalditaCastilla/file/MalditaCastilla.tar.gz",
             "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/MalditaCastilla/shots/MalditaCastilla-1.png"
         }, {
             "type": "launcher",
-            "title": "SuperCrateBox",
+            "title": "Super CrateBox",
             "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/SuperCrateBox/file/SuperCrateBox.tar.gz",
             "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/SuperCrateBox/shots/SuperCrateBox-1.png"
         }, {
             "type": "launcher",
-            "title": "SuperCrateBoxTogether",
+            "title": "Super CrateBox Together",
             "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/SuperCrateBoxTogether/file/SuperCrateBoxTogether.tar.gz",
             "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/SuperCrateBoxTogether/shots/SuperCrateBoxTogether-1.png"
         }, {
             "type": "launcher",
-            "title": "RomCheckFail",
+            "title": "Rom Check Fail",
             "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/RomCheckFail/file/RomCheckFail.tar.gz",
             "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/RomCheckFail/shots/RomCheckFail-1.png"
         }
