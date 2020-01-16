@@ -1,0 +1,38 @@
+{
+    "list": [{
+            "type": "launcher",
+            "title": "EFMB",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/EFMB/file/EFMB.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/EFMB/shots/preview.png"
+        }, {
+            "type": "launcher",
+            "title": "Gaurodan",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/Gaurodan/file/Gaurodan.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/Gaurodan/shots/preview.png"
+        },
+        {
+            "type": "launcher",
+            "title": "MalditaCastilla",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/MalditaCastilla/file/MalditaCastilla.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/MalditaCastilla/shots/preview.png"
+        }
+        {
+            "type": "launcher",
+            "title": "SuperCrateBox",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/SuperCrateBox/file/SuperCrateBox.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/SuperCrateBox/shots/preview.png"
+        }
+        {
+            "type": "launcher",
+            "title": "SuperCrateBoxTogether",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/SuperCrateBoxTogether/file/SuperCrateBoxTogether.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/SuperCrateBoxTogether/shots/preview.png"
+        }
+        {
+            "type": "launcher",
+            "title": "RomCheckFail",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/RomCheckFail/file/RomCheckFail.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/RomCheckFail/shots/preview.png"
+        }
+    ]
+}
