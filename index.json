@@ -1,6 +1,9 @@
 {
 	"list":[
-{"title":"Freeware box86 Games","file":"https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/index.json","type":"dir"}
-]
-
+        {
+            "title":"Freeware box86 Game",
+            "file":"https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/index.json",
+            "type":"dir"
+        }
+    ]
 }
