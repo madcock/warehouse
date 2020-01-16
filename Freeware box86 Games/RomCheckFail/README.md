@@ -1,4 +1,4 @@
-# EFMB
+# Rom Check Fail
 Unix port created and released for free by Farbs.
 
 More information here:
