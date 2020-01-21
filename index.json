@@ -7,7 +7,7 @@
         },
 	{
             "title":"apt Games",
-            "file":"https://raw.githubusercontent.com/madcock/warehouse/master/Games%20%(apt)/index.json",
+            "file":"https://raw.githubusercontent.com/madcock/warehouse/master/Games%20(apt)/index.json",
             "type":"dir"
         }
     ]
