@@ -1,0 +1,34 @@
+{
+    "list": [{
+            "type": "launcher",
+            "title": "Mu-cade",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Mu-cade/file/Mu-cade.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Mu-cade/shots/Mu-cade-1.png"
+        }, {
+            "type": "launcher",
+            "title": "Parsec47",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Parsec47/file/Parsec47.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Parsec47/shots/Parsec47-1.png"
+        }, {
+            "type": "launcher",
+            "title": "RRootage",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/RRootage/file/RRootage.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/RRootage/shots/RRootage-1.png"
+        }, {
+            "type": "launcher",
+            "title": "Spout",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Spout/file/Spout.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Spout/shots/Spout-1.png"
+        }, {
+            "type": "launcher",
+            "title": "Torus-Trooper",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Torus-Trooper/file/Torus-Trooper.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Torus-Trooper/shots/Torus-Trooper-1.png"
+        }, {
+            "type": "launcher",
+            "title": "Tumiki Fighters",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Tumiki-Fighters/file/Tumiki-Fighters.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Tumiki-Fighters/shots/Tumiki-Fighters-1.png"
+        }
+    ]
+}
