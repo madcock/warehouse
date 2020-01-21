@@ -4,6 +4,11 @@
             "title":"box86 Games",
             "file":"https://raw.githubusercontent.com/madcock/warehouse/master/Freeware%20box86%20Games/index.json",
             "type":"dir"
+        },
+	{
+            "title":"apt Games",
+            "file":"https://raw.githubusercontent.com/madcock/warehouse/master/Games%20%(apt)/index.json",
+            "type":"dir"
         }
     ]
 }
