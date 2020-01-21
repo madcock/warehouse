@@ -27,8 +27,8 @@
         }, {
             "type": "launcher",
             "title": "Tumiki Fighters",
-            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20(apt)/Tumiki Fighters/file/Tumiki Fighters.tar.gz",
-            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20(apt)/Tumiki Fighters/shots/Tumiki Fighters-1.png"
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20(apt)/Tumiki Fighters/file/Tumiki%20Fighters.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20(apt)/Tumiki Fighters/shots/Tumiki%20Fighters-1.png"
         }
     ]
 }
