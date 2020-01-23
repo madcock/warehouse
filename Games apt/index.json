@@ -29,6 +29,11 @@
             "title": "Tumiki Fighters",
             "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Tumiki-Fighters/file/Tumiki-Fighters.tar.gz",
             "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Tumiki-Fighters/shots/Tumiki-Fighters-1.png"
+        }, {
+            "type": "launcher",
+            "title": "Ur-Quan Masters",
+            "file": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Ur-Quan-Masters/file/Ur-Quan-Masters.tar.gz",
+            "shots": "https://raw.githubusercontent.com/madcock/warehouse/master/Games%20apt/Ur-Quan-Masters/shots/Ur-Quan-Masters-1.png"
         }
     ]
 }
